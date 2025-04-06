@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>21 Dicas para Emagrecer com Saúde</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff8f0;
+      color: #333;
+    }
+    .header {
+      background: #ffa500;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    .cover {
+      text-align: center;
+    }
+    .cover img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+    .content {
+      margin-top: 30px;
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+    .button {
+      display: block;
+      width: 200px;
+      margin: 40px auto;
+      padding: 15px;
+      background: #28a745;
+      color: white;
+      text-align: center;
+      font-size: 1.2rem;
+      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    .button:hover {
+      background: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>21 Dicas Práticas para Emagrecer com Saúde</h1>
+    <p>Descubra como transformar sua rotina com hábitos simples e eficazes!</p>
+  </div>
+
+  <div class="container">
+    <div class="cover">
+      <img src="/mnt/data/A_web_page_screenshot_promoting_an_e-book_on_weigh.png" alt="Capa do e-book">
+    </div>
+
+    <div class="content">
+      <p>Você está buscando uma forma de emagrecer sem dietas malucas ou sofrimento? Este e-book foi feito para você! Reunimos 21 dicas simples, práticas e comprovadas para te ajudar a perder peso com saúde e manter os resultados.</p>
+
+      <ul>
+        <li>Melhore sua alimentação sem passar fome</li>
+        <li>Adote hábitos saudáveis no seu dia a dia</li>
+        <li>Receitas leves e gostosas</li>
+        <li>Dicas para manter o foco e a motivação</li>
+      </ul>
+
+      <p>Transforme seu corpo e sua mente com pequenas mudanças diárias!</p>
+    </div>
+
+    <a class="button" href="LINK_DE_PAGAMENTO">COMPRE AGORA</a>
+  </div>
+</body>
+</html>
